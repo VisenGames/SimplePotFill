@@ -1,0 +1,9 @@
+name: SimplePotPlugin
+version: 1.0
+author: VisenGames
+main: games.visen.simplepotfill.Main
+description: A simple plugin that filles the players inventory with potions.
+commands:
+  potfill:
+    usage: /potfill ( Player only )
+    description: Fills the players inventory with potions.
